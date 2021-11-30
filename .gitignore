@@ -1,0 +1,7 @@
+# Ignore all files without exstension
+*
+!*.*
+!*/
+
+# Unignore Makefile
+!Makefile
