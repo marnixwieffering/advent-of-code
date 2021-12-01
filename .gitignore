@@ -5,3 +5,7 @@
 
 # Unignore Makefile
 !Makefile
+
+# Unignore input and sample files
+!sample
+!input
