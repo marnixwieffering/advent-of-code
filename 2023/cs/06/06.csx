@@ -1,4 +1,5 @@
 #nullable enable
+#r "System.Text.RegularExpressions"
 
 using System.IO;
 using System.Text.RegularExpressions;
